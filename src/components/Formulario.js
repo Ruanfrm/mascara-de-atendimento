@@ -92,7 +92,7 @@ const Formulario = () => {
     
 
   return (
-    <div className="dark:bg-zinc-950 text-zinc-100 min-h-screen py-12 px-4 sm:px-6 lg:px-8">
+    <div className="bg-black text-zinc-100 min-h-screen py-12 px-4 sm:px-6 lg:px-8">
       <div className="max-w-xl mx-auto">
         <form onSubmit={handleSubmit} className="space-y-4">
           <div className="grid grid-cols-1 gap-y-4">
