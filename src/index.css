@@ -7,13 +7,13 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-        backgound-color: black;
+        backgound-color: black;!important
 
 }
 
 body {
   font-family: "Rubik", sans-serif;
-    backgound-color: black;
+ backgound-color: black;!important
 }
 
 
